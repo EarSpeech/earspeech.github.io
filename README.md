@@ -23,19 +23,19 @@ We first shows the comparison between  ***(1) clean airborne speech (reference)*
 
 ## 2.1 SNR_-5dB_0_dB
 
-### 2.1.1 Chinese samples [Audio files are seen in [audioDemo](/Users/feiyu/Desktop/demo_EarSpeech/SNR_-5dB_0dB/Chinese_samples/) ]
+### 2.1.1 Chinese samples [Audio files are seen in [audioDemo](./SNR_-5dB_0dB/Chinese_samples/) ]
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/SNR_-5dB_0dB/Chinese_samples/time.png" width="100%"> </div>
+<div align="left"> 	<img src="./SNR_-5dB_0dB/Chinese_samples/time.png" width="100%"> </div>
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/SNR_-5dB_0dB/Chinese_samples/time-frequency.png" width="100%"> </div>
+<div align="left"> 	<img src="./SNR_-5dB_0dB/Chinese_samples/time-frequency.png" width="100%"> </div>
 
 
 
-### 2.1.2 English samples [Audio files are seen in [audioDemo](/Users/feiyu/Desktop/demo_EarSpeech/SNR_-5dB_0dB/English_samples/) ]
+### 2.1.2 English samples [Audio files are seen in [audioDemo](./SNR_-5dB_0dB/English_samples/) ]
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/SNR_-5dB_0dB/English_samples/time.png" width="100%"> </div>
+<div align="left"> 	<img src="./SNR_-5dB_0dB/English_samples/time.png" width="100%"> </div>
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/SNR_-5dB_0dB/English_samples/time-frequency.png" width="100%"> </div>
+<div align="left"> 	<img src="./SNR_-5dB_0dB/English_samples/time-frequency.png" width="100%"> </div>
 
 
 
@@ -43,37 +43,37 @@ We first shows the comparison between  ***(1) clean airborne speech (reference)*
 
 ## 2.2 SNR_0dB_5_dB
 
-### 2.2.1 Chinese samples [Audio files are seen in [audioDemo](/Users/feiyu/Desktop/demo_EarSpeech/SNR_0dB_5dB/Chinese_samples/) ]
+### 2.2.1 Chinese samples [Audio files are seen in [audioDemo](./SNR_0dB_5dB/Chinese_samples/) ]
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/SNR_0dB_5dB/Chinese_samples/time.png" width="100%"> </div>
+<div align="left"> 	<img src="./SNR_0dB_5dB/Chinese_samples/time.png" width="100%"> </div>
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/SNR_0dB_5dB/Chinese_samples/time-frequency.png" width="100%"> </div>
+<div align="left"> 	<img src="./SNR_0dB_5dB/Chinese_samples/time-frequency.png" width="100%"> </div>
 
 
 
-### 2.2.2 English samples [Audio files are seen in [audioDemo](/Users/feiyu/Desktop/demo_EarSpeech/SNR_0dB_5dB/English_samples/) ]
+### 2.2.2 English samples [Audio files are seen in [audioDemo](./SNR_0dB_5dB/English_samples/) ]
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/SNR_0dB_5dB/English_samples/time.png" width="100%"> </div>
+<div align="left"> 	<img src="./SNR_0dB_5dB/English_samples/time.png" width="100%"> </div>
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/SNR_0dB_5dB/English_samples/time-frequency.png" width="100%"> </div>
+<div align="left"> 	<img src="./SNR_0dB_5dB/English_samples/time-frequency.png" width="100%"> </div>
 
 
 
 ## 2.3 SNR_5dB_10_dB
 
-### 2.3.1 Chinese samples [Audio files are seen in [audioDemo](/Users/feiyu/Desktop/demo_EarSpeech/SNR_5dB_10dB/Chinese_samples/) ]
+### 2.3.1 Chinese samples [Audio files are seen in [audioDemo](./SNR_5dB_10dB/Chinese_samples/) ]
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/SNR_5dB_10dB/Chinese_samples/time.png" width="100%"> </div>
+<div align="left"> 	<img src="./SNR_5dB_10dB/Chinese_samples/time.png" width="100%"> </div>
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/SNR_5dB_10dB/Chinese_samples/time-frequency.png" width="100%"> </div>
+<div align="left"> 	<img src="./SNR_5dB_10dB/Chinese_samples/time-frequency.png" width="100%"> </div>
 
 
 
-### 2.3.2 English samples [Audio files are seen in [audioDemo](/Users/feiyu/Desktop/demo_EarSpeech/SNR_-5dB_0dB/English_samples/) ]
+### 2.3.2 English samples [Audio files are seen in [audioDemo](./SNR_-5dB_0dB/English_samples/) ]
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/SNR_5dB_10dB/English_samples/time.png" width="100%"> </div>
+<div align="left"> 	<img src="./SNR_5dB_10dB/English_samples/time.png" width="100%"> </div>
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/SNR_5dB_10dB/English_samples/time-frequency.png" width="100%"> </div>
+<div align="left"> 	<img src="./SNR_5dB_10dB/English_samples/time-frequency.png" width="100%"> </div>
 
 
 
@@ -83,15 +83,15 @@ We first shows the comparison between  ***(1) clean airborne speech (reference)*
 
 
 
-### 2.3.1 Env1_Noise_SPL_72.19dB [Audio files are seen in [audioDemo](/Users/feiyu/Desktop/demo_EarSpeech/Real_world_study/Env1_Noise_SPL_72.19dB/) ]
+### 2.3.1 Env1_Noise_SPL_72.19dB [Audio files are seen in [audioDemo](./Real_world_study/Env1_Noise_SPL_72.19dB/) ]
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/Real_world_study/Env1_Noise_SPL_72.19dB/time.png" width="100%"> </div>
+<div align="left"> 	<img src="./Real_world_study/Env1_Noise_SPL_72.19dB/time.png" width="100%"> </div>
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/Real_world_study/Env1_Noise_SPL_72.19dB/time-frequency.png" width="100%"> </div>
+<div align="left"> 	<img src="./Real_world_study/Env1_Noise_SPL_72.19dB/time-frequency.png" width="100%"> </div>
 
-### 2.3.2 Env2_Noise_SPL_75.27dB [Audio files are seen in [audioDemo](/Users/feiyu/Desktop/demo_EarSpeech/Real_world_study/Env2_Noise_SPL_75.27dB/) ]
+### 2.3.2 Env2_Noise_SPL_75.27dB [Audio files are seen in [audioDemo](./Real_world_study/Env2_Noise_SPL_75.27dB/) ]
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/Real_world_study/Env2_Noise_SPL_75.27dB/time.png" width="100%"> </div>
+<div align="left"> 	<img src="./Real_world_study/Env2_Noise_SPL_75.27dB/time.png" width="100%"> </div>
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/Real_world_study/Env2_Noise_SPL_75.27dB/time-frequency.png" width="100%"> </div>
+<div align="left"> 	<img src="./Real_world_study/Env2_Noise_SPL_75.27dB/time-frequency.png" width="100%"> </div>
 
