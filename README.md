@@ -1,6 +1,6 @@
 # earspeech.github.io
 
-EarSpeech is an earphone-based speech enhancement system that leverages outer and inner microphones on the same earphone to capture sound vibrations propagating along airborne and in-ear channels. The key idea of EarSpeech is that in-ear speech is less sensitive to ambient noise and exhibits a correlation with airborne speech which is sensitive to ambient noise. The goal of EarSpeech is that fusing the in-ear channel to improve the quality and intelligibility of airborne speech. Here, we release some  audio demo samples to demonstrate the performance of EarSpeech. 
+EarSpeech is an earphone-based speech enhancement system that leverages outer and inner microphones on the same earphone to capture sound vibrations propagating along airborne and in-ear channels. The key idea of EarSpeech is that in-ear speech is less sensitive to ambient noise and exhibits a correlation with airborne speech which is sensitive to ambient noise. The goal of EarSpeech is to fuse the in-ear channel to improve the quality and intelligibility of airborne speech. Here, we release some  audio demo samples to demonstrate the performance of EarSpeech. 
 
 
 
@@ -19,7 +19,7 @@ The structure of the folder is shown as follows:
 
 # 2. Demo
 
-We first shows the comparison between  ***(1) clean airborne speech (reference)***, ***(2) corresponding in-ear speech***, ***(3) noisy airborne speech (mixing clean speech with various noise)***, and ***(4) enhanced airborne speech***
+We first show the comparison between  ***(1) clean airborne speech (reference)***, ***(2) corresponding in-ear speech***, ***(3) noisy airborne speech (mixing clean speech with various noise)***, and ***(4) enhanced airborne speech***
 
 ## 2.1 SNR_-5dB_0_dB
 
