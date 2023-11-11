@@ -8,7 +8,7 @@ EarSpeech is an earphone-based speech enhancement system that leverages outer an
 
 The structure of the folder is shown as follows:
 
-<div align="left"> 	<img src="/Users/feiyu/Desktop/demo_EarSpeech/floder_structure.png" width="30%"> </div>
+<div align="left"> 	<img src="./floder_structure.png" width="30%"> </div>
 
 
 
