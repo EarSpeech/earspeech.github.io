@@ -19,7 +19,7 @@ The structure of the folder is shown as follows:
 
 # 2. Demo
 
-We first shows the comparison between  ***(1) clean airborne speech (reference)***, ***(2) corresponding in-ear speech***, ***(3) noisy airborne speech***, and ***(4) enhanced airborne speech***
+We first shows the comparison between  ***(1) clean airborne speech (reference)***, ***(2) corresponding in-ear speech***, ***(3) noisy airborne speech (mixing clean speech with various noise)***, and ***(4) enhanced airborne speech***
 
 ## 2.1 SNR_-5dB_0_dB
 
