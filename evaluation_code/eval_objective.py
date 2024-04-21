@@ -2,10 +2,10 @@
 
 for eval the model, pesq, stoi, si-sdr
 
-This code mainly refers to a open repository:
+This code mainly refers to an open repository:
     https://github.com/huyanxin/phasen/blob/master/tools/eval_objective.py
 
-Need to install following third-party dependency packages:
+Need to install the following third-party dependency packages:
     - pypesq: 
         https://github.com/vBaiCai/python-pesq
 
