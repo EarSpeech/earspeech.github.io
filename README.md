@@ -91,7 +91,22 @@ We first show the comparison between  ***(1) clean airborne speech (reference)**
 
 ### 2.3.2 Env2_Noise_SPL_75.27dB [Audio files are seen in [audioDemo](./Real_world_study/Env2_Noise_SPL_75.27dB/) ]
 
+
+
+
+
+
 <div align="left"> 	<img src="./Real_world_study/Env2_Noise_SPL_75.27dB/time.png" width="100%"> </div>
 
 <div align="left"> 	<img src="./Real_world_study/Env2_Noise_SPL_75.27dB/time-frequency.png" width="100%"> </div>
+
+
+
+# Quick Reproduction
+
+The model of EarSpeech is released in [model](./model/) 
+
+We also release the pre-trained model in [model](./model/) 
+
+
 
