@@ -1,6 +1,6 @@
 # Quick Reproduction
 
-The model of EarSpeech is released in [model](./model/) 
+The model of EarSpeech is released in [model](./model/)  
 
 We also release the pre-trained model in [model](./model/) 
 
