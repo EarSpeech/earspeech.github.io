@@ -1,3 +1,6 @@
+
+<audio src="./SNR_0dB_5dB/Chinese_samples/Clean_Airborne_Audio.wav"></audio>
+
 # Quick Reproduction
 
 The model of EarSpeech and the pre-trained model are released in [model](https://github.com/EarSpeech/earspeech.github.io/tree/main/model)  
@@ -108,7 +111,7 @@ We first show the comparison between  ***(1) clean airborne speech (reference)**
 
 
 
-<audio src="./SNR_0dB_5dB/Chinese_samples/Clean_Airborne_Audio.wav"></audio>
+
 
 
 
