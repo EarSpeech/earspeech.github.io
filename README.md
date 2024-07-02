@@ -4,7 +4,7 @@ The model of EarSpeech and the pre-trained model are released in [model](https:/
 
 **References**: huyanxin's [phasen](https://github.com/huyanxin/phasen/tree/master)
 
-# Demo of Earspeech
+# Audio Demo of EarSpeech
 
 EarSpeech is an earphone-based speech enhancement system that leverages outer and inner microphones on the same earphone to capture sound vibrations propagating along airborne and in-ear channels. The key idea of EarSpeech is that in-ear speech is less sensitive to ambient noise and exhibits a correlation with airborne speech which is sensitive to ambient noise. The goal of EarSpeech is to fuse the in-ear channel to improve the quality and intelligibility of airborne speech. Here, we release some  audio demo samples to demonstrate the performance of EarSpeech. 
 
@@ -108,7 +108,7 @@ We first show the comparison between  ***(1) clean airborne speech (reference)**
 
 
 
-
+<audio src="./SNR_0dB_5dB/Chinese_samples/Clean_Airborne_Audio.wav"></audio>
 
 
 
