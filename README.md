@@ -26,7 +26,7 @@ The structure of the folder is shown as follows:
 - "Read_world_study" represents the speech collected in noisy real-world environments ( noise SPLs of the two environments are 72.19 dB and 75.27 dB, respectively).
 
 
-We first show the comparison between  ***(1) clean airborne speech (reference)***, ***(2) corresponding in-ear speech***, ***(3) noisy airborne speech (mixing clean speech with various noise)***, and ***(4) enhanced airborne speech***
+We first show the comparison between  **(1) clean airborne speech (reference)**, **(2) corresponding in-ear speech**, **(3) noisy airborne speech (mixing clean speech with various noise)**, and **(4) enhanced airborne speech**
 
 ## 2.1 SNR_-5dB_0_dB
 
@@ -107,11 +107,7 @@ We first show the comparison between  ***(1) clean airborne speech (reference)**
 
 
 # 3. Contact Information
-Feiyu Han, University of Science and Technology of China. 
-
 fyhan@mail.ustc.edu.cn
-
-fyhancs@gmail.com
 
 
 
