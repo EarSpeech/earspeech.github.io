@@ -2,9 +2,25 @@
 
 
 # Introduction
-EarSpeech is an earphone-based speech enhancement system that exploits in-ear channel speech as the complementary modality to enable airborne speech enhancement. The key idea of EarSpeech is that in-ear speech is less sensitive to ambient noise and exhibits a high correlation with airborne speech which is sensitive to ambient noise. The goal of EarSpeech is to fuse the in-ear speech to improve the quality and intelligibility of airborne speech. Throughout extensive experiments, EarSpeech achieves an average improvement ratio of 27.23% and 13.92% in terms of PESQ and STOI, respectively, and significantly improves SI-SDR by 8.91 dB. Benefiting from data augmentation, EarSpeech can achieve comparable performance with a small-scale dataset that is 40 times less than the original dataset. In addition, EarSpeech presents a higher generalization of different users, speech content, and language types, respectively, as well as a stronger robustness in the real world. More technical details and surprising results can be found in our paper which is published on ACM IMWUT/Ubicomp 2024 [paper](https://github.com/EarSpeech/earspeech.github.io/).
+EarSpeech is an earphone-based speech enhancement system that exploits in-ear channel speech as the complementary modality to enable airborne speech enhancement. The key idea of EarSpeech is that in-ear speech is less sensitive to ambient noise and exhibits a high correlation with airborne speech which is sensitive to ambient noise. The goal of EarSpeech is to fuse the in-ear speech to improve the quality and intelligibility of airborne speech. Throughout extensive experiments, EarSpeech achieves an average improvement ratio of 27.23% and 13.92% in terms of PESQ and STOI, respectively, and significantly improves SI-SDR by 8.91 dB. Benefiting from data augmentation, EarSpeech can achieve comparable performance with a small-scale dataset that is 40 times less than the original dataset. In addition, EarSpeech presents a higher generalization of different users, speech content, and language types, respectively, as well as a stronger robustness in the real world. More technical details and surprising results can be found in our paper which is published on ACM IMWUT/Ubicomp 2024 [paper](https://dl.acm.org/doi/10.1145/3678594).
 
 If you think our work is helpful to you, please cite our paper:
+
+  @article{10.1145/3678594,
+    author = {Han, Feiyu and Yang, Panlong and Zuo, You and Shang, Fei and Xu, Fenglei and Li, Xiang-Yang},
+    title = {EarSpeech: Exploring In-Ear Occlusion Effect on Earphones for Data-efficient Airborne Speech Enhancement},
+    year = {2024},
+    issue_date = {August 2024},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {8},
+    number = {3},
+    url = {https://doi.org/10.1145/3678594},
+    doi = {10.1145/3678594},
+    month = {sep},
+    articleno = {104},
+    numpages = {30}
+  }
 
 
 # 1. Quick Reproduction
